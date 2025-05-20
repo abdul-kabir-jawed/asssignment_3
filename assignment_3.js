@@ -1,0 +1,11 @@
+var age=19;
+var visited_webpage=12;
+var birthYear=2007;
+var person_name="John Doe";
+var ordered="5 T-shirt(s)";
+var store_name="XYZ Clothing Store";
+alert("I am " + age + " years old");
+alert("You have visited this site " + visited_webpage + " times");
+document.write("My birth year is " + birthYear + "\nData type of declared variable is number\n");
+document.write("<br>");
+document.write("<strong>" + person_name + "</strong>" + " ordered " + "<strong>" + ordered +"</strong>"+" "+ store_name);
